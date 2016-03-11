@@ -1,7 +1,7 @@
 ---
 Title: Inicio
 Description: Bienvenido a la Dirección General de Publicaciones
-Placing: 1
+Placing: 0
 ---
 
 ## Bienvenido
