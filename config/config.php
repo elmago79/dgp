@@ -22,7 +22,7 @@
 $config['site_title'] = 'Dirección General de Publicaciones';              // Site title
 // $config['base_url'] = '';                    // Override base URL (e.g. http://example.com)
 // $config['rewrite_url'] = null;               // A boolean indicating forced URL rewriting
-
+$config['rewrite_url'] = true;
 /*
  * THEME
  */
