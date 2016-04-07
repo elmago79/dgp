@@ -9,7 +9,7 @@ Placing: 0
 Conoce nuestras actividades y anuncios destacados.
 
 <div style="background-color:#f2f2f2; padding:20px;margin:20px 0;">
-<p style="text-align:center"><a href="/dml2016"><img alt="Día Mundial del Libro 2016" src="assets/banner-dml.jpg"></a> <a href="/elenagarro"><img alt="Centenario del natalicio de Elena Garro" src="assets/banner-elena-garro.jpg"></a></p>
+<p style="text-align:center"><a href="/dml2016"><img alt="Día Mundial del Libro 2016" src="assets/banner-dml.jpg"></a> <a href="/elenagarro"><img alt="Centenario del natalicio de Elena Garro" src="assets/banner-elena-garro.jpg"></a> <a href="http://pro.librosmexico.mx/inicio/blog/acta-de-preseleccion-convocatoria-de-coediciones-"><img alt="Acta de preselección de la convocatoria de Coediciones 2015" src="assets/banner-preseleccion.jpg"></a></p>
 </div>
 
 
